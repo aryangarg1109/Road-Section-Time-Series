@@ -9,5 +9,5 @@ We are predicting the parameters Para-9, Para-10, Para-11, Para-12, and Para-13 
 We have used Light Gradient Boosting Machine for solving this problem.
 
 ## Results
-The RMSE value of the model is 69ss.76.
+The RMSE value of the model is 69.76.
 
